@@ -2,7 +2,7 @@
  
 ## 💭 Acerca de mí
  
-Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma, haciendo las prácticas en Imatia Innovation S.L. como desarrolador de software. Me gusta mucho el trabajo en equipo y aprender continuamente acerca de diferentes tecnologías.
+Graduado como técnico Superior de Desarrollo de Aplicaciones Multiplataforma, haciendo las prácticas en Imatia Innovation S.L. como desarrolador de software. Me gusta mucho el trabajo en equipo y aprender continuamente acerca de diferentes tecnologías.
  
 ## 🚀 Habilidades
  
@@ -19,10 +19,6 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 ### Herramientas
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
- 
-## 🌱 Actualmente
- 
-- Aprendiendo FullStack
  
 ## 📈 Estadísticas de GitHub
  
