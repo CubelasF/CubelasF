@@ -31,7 +31,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
 ## 📫 Cómo contactarme
  
 <div> 
-<a href="https://www.linkedin.com/in/francisco-cubelas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/francisco-cubelas-656844272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
 ## 🎨 Intereses
