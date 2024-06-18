@@ -44,7 +44,7 @@ Graduado como técnico Superior de Desarrollo de Aplicaciones Multiplataforma, h
 ## 📫 Cómo contactarme
  
 <div> 
-<a href="https://www.linkedin.com/in/francisco-cubelas-vacatello-656844272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/franciscocubelasvacatello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
 ## 🎨 Intereses
